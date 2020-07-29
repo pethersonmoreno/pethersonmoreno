@@ -7,3 +7,5 @@ My free time I like to play with my son and my wife.
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pethersonmoreno)](https://www.linkedin.com/in/pethersonmoreno)
+
+Right now, I'm in "Imersão React da Alura".
